@@ -1,0 +1,19 @@
+name: "SalasLizanaLab"
+title: "Laboratorio"
+type: inverse
+left:
+  - text: "Acerca de nosotrxs"
+    menu:
+      - text: "Conoce nuestros proyectos"
+        href: aboutus.html
+  - text: "Projectos activos"
+    menu:
+       - text: "Project part 1"
+         href: project1.html
+       - text: "Project part 2"
+         href: project2.html
+  - text: "Gente"
+    href: us.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/githubusername/mywebsite
