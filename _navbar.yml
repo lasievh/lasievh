@@ -15,5 +15,8 @@ left:
   - text: "Gente"
     href: us.html
 right:
-  - icon: fa-github fa-lg
-    href: https://github.com/githubusername/mywebsite
+  - icon: fab fa-researchgate
+    href: https://www.researchgate.net/profile/Rodolfo-Salas-Lizana
+  - icon: fa-twitter
+    href: https://twitter.com/rodo_slizana
+
