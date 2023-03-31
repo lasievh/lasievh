@@ -5,5 +5,5 @@ output:
     toc: FALSE
 ---
 
-**Laboratorio de **
+**Laboratorio**
 
