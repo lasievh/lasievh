@@ -1,14 +1,14 @@
 ---
-title: "Nosotrxs"
+title: "Gente"
 output: html_document
 ---
 
 
-# Lab Head
+## Rodolfo Salas Lizana
 
-# Estudiantes
+## Estudiantes
 
-# Estudiantes de maestría
-# Estudiantes de licenciatura
-# Servicio Social
+### Estudiantes de maestría
+### Estudiantes de licenciatura
+### Servicio Social
 

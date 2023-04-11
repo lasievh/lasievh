@@ -1,7 +1,34 @@
 ---
-title: "aboutus"
+title: "Publicaciones"
 output: html_document
-date: "2023-03-24"
 ---
 
-#Descripción del proyecto
+* **Salas-Lizana, R.**, Villegas Ríos, M., Alvarez-Manjarrez, J., Pérez-Pazos, E., Farid, A., Franck, A., Smith, M. E., & Garibay-Orijel, R. (2023). Neotropical *Clavulina*: Two new species from Mexico and a re-evaluation of *Clavulina floridana*. *Mycologia*, 115(1), 135–152. [https://doi.org/10.1080/00275514.2022.2148191](https://doi.org/10.1080/00275514.2022.2148191).
+
+
+* Sarver, J., Schultz, E., Apigo, A., Gernandt, D. S., **Salas‐Lizana, R.**, & Oono, R. (2022). Deep sequencing across multiple host species tests pine‐endophyte specificity. *American Journal of Botany*, 109(1), 83–98. [https://doi.org/10.1002/ajb2.1792](https://doi.org/10.1002/ajb2.1792).
+
+
+* Yuan, H.-S., Lu, X., Dai, Y.-C., Hyde, K.D., Kan, Y.-H., Kušan, I., He, S.-H., Liu, N.-G., Sarma, V.V., Zhao, C.-L., Cui, B.-K., Yousaf, N., Sun, G., Liu, S.-Y., Wu, F., Lin, C.-G., Dayarathne, M.C., Gibertoni, T.B., Conceição, L.B., Garibay-Orijel, R., Villegas-Ríos, M., **Salas-Lizana, R.**, Wei, T.-Z., Qiu, J.-Z., Yu, Z.-F., Phookamsak, R., Zeng, M., Paloi, S., Bao, D.-F., Abeywickrama, P.D., Wei, D.-P., Yang, J., Manawasinghe, I.S., Harishchandra, D., Brahmanage, R.S., de Silva, N.I., Tennakoon, D.S., Karunarathna, A., Gafforov, Y., Pem, D., Zhang, S.-N., de Azevedo Santiago, A.L.C.M., Bezerra, J.D.P., Dima, B., Acharya, K., Alvarez-Manjarrez, J., Bahkali, A.H., Bhatt, V.K., Brandrud, T.E., Bulgakov, T.S., Camporesi, E., Cao, T., Chen, Y.-X., Chen, Y.-Y., Devadatha, B., Elgorban, A.M., Fan, L.-F., Du, X., Gao, L., Gonçalves, C.M., Gusmão, L.F.P., Huanraluek, N., Jadan, M., Jayawardena, R.S., Khalid, A.N., Langer, E., Lima, D.X., de Lima-Júnior, N.C., de Lira, C.R.S., Liu, J.-K. (Jack), Liu, S., Lumyong, S., Luo, Z.-L., Matočec, N., Niranjan, M., Oliveira-Filho, J.R.C., Papp, V., Pérez-Pazos, E., Phillips, A.J.L., Qiu, P.-L., Ren, Y., Ruiz, R.F.C., Semwal, K.C., Soop, K., de Souza, C.A.F., Souza-Motta, C.M., Sun, L.-H., Xie, M.-L., Yao, Y.-J., Zhao, Q., Zhou, L.-W. (2020). Fungal diversity notes 1277–1386: taxonomic and phylogenetic contributions to fungal taxa. **Fungal Diversity**, 104(1), 1–266.[https://doi.org/10.1007/s13225-020-00461-7](https://doi.org/10.1007/s13225-020-00461-7)
+
+
+* Perez-Pazos, E., Villegas-Ríos, M., G.-O.Garibay-Orjiel, R., & **Salas-Lizana, R.** (2019). *Abies religiosa* forests in central Mexico. *Mycological Progress*, 18(9), 1187–1200. [https://doi.org/10.1007/s11557-019-01516-z](https://doi.org/10.1007/s11557-019-01516-z).
+
+
+* **Salas-Lizana, R.**, & Oono, R. (2018). A comparative analysis of *Lophodermium fissuratum, sp. nov.*, found in haploxylon pine needles in the Pacific Northwest, and other *Lophodermium* endophytes. *Mycologia*, 110(5), 797–810. [https://doi.org/10.1080/00275514.2018.1499991](https://doi.org/10.1080/00275514.2018.1499991).
+
+
+* Hansberg, W., **Salas-Lizana, R.**, & Domínguez, L. (2012). Fungal catalases: Function, phylogenetic origin and structure. *Archives of Biochemistry and Biophysics*, 525(2), 170–180. [https://doi.org/10.1016/j.abb.2012.05.014](https://doi.org/10.1016/j.abb.2012.05.014).
+
+
+* **Salas-Lizana, R.**, Santini, N. S., Miranda-Pérez, A., & Piñero, D. I. (2012). The Pleistocene glacial cycles shaped the historical demography and phylogeography of a pine fungal endophyte. *Mycological Progress**, 11(2), 569–581. [https://doi.org/10.1007/s11557-011-0774-x](https://doi.org/10.1007/s11557-011-0774-x).
+
+
+* Taylor, M. L., Hernández-García, L., Estrada-Bárcenas, D., **Salas-Lizana, R.**, Zancopé-Oliveira, R. M., García de la Cruz, S., Galvão-Dias, M. A., Curiel-Quesada, E., Canteros, C. E., Bojórquez-Torres, G., Bogard-Fuentes, C. A., & Zamora-Tehozol, E. (2012). Genetic diversity of *Histoplasma capsulatum* isolated from infected bats randomly captured in Mexico, Brazil, and Argentina, using the polymorphism of (GA)n microsatellite and its flanking regions. *Fungal Biology*, 116(2), 308–317. [https://doi.org/10.1016/j.funbio.2011.12.004](https://doi.org/10.1016/j.funbio.2011.12.004).
+
+
+* Delgado, P., **Salas‐Lizana, R.**, Vázquez‐Lobo, A., Wegier, A., Anzidei, M., Alvarez‐Buylla, E. R., Vendramin, G. G., & Piñero, D. (2007). Introgressive Hybridization in *Pinus montezumae* Lamb and *Pinus pseudostrobus* Lindl. (Pinaceae): Morphological and Molecular (cpSSR) Evidence. *International Journal of Plant Sciences*, 168(6), 861–875. [https://doi.org/10.1086/518260](https://doi.org/10.1086/518260).
+
+
+
+* Ortiz-García, S., Gernandt, D. S., Stone, J. K., Johnston, P. R., Chapela, I. H., **Salas-Lizana, R.**, & Alvarez-Buylla, E. R. (2003). Phylogenetics of *Lophodermium* from pine. *Mycologia*, 95(5), 846–859. https://doi.org/10.1080/15572536.2004.11833044

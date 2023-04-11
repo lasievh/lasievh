@@ -1,10 +1,11 @@
-name: "My new website"
+name: "LASIEH"
 output_dir: 'docs'
+search: true
 output:
   html_document:
     theme: bootstrap
     highlight: zenburn
-    toc: true
-    toc_depth: 2
-    toc_float:
-      collapsed: false
+    css:
+    - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+    includes:
+      after_body: ./after.Rhtml

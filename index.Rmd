@@ -1,9 +1,8 @@
 ---
-title: "Salas Lizana Lab"
+title: "Laboratorio de Sistemática y Evolución de Hongos"
 output: 
   html_document:
     toc: FALSE
 ---
 
-**Laboratorio**
 

@@ -1,5 +1,5 @@
-name: "SalasLizanaLab"
-title: "Laboratorio de "
+name: "LASIEH"
+title: "LASIEH"
 type: inverse
 left:
   - text: "Publicaciones"
@@ -17,4 +17,8 @@ right:
     href: https://www.researchgate.net/profile/Rodolfo-Salas-Lizana
   - icon: fa-twitter
     href: https://twitter.com/rodo_slizana
+  - icon: ai ai-orcid
+    href: https://orcid.org/0000-0002-0761-2910
+
+    
 
