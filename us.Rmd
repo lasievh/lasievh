@@ -1,14 +1,63 @@
 ---
-title: "Gente"
+title: "Miembros del Lab"
 output: html_document
 ---
 
+<b>
 
-## Rodolfo Salas Lizana
+<h3>
 
-## Estudiantes
+Rodolfo Salas Lizana
 
-### Estudiantes de maestría
-### Estudiantes de licenciatura
-### Servicio Social
+</h3>
 
+</b>
+
+<img src="./img/Rodo.jpeg" alt="JuveYell" width="300px"/>
+
+<br>
+
+# Estudiantes de maestría
+
+<br> <b>
+
+<h3>
+
+Valeria Flores Almaraz
+
+</h3>
+
+</b>
+
+<img src="./img/Valeria.jpg" alt="JuveYell" width="300px"/>
+<br>
+
+<p class="text-justify">
+Estudiante del Posgrado en Ciencias Biológicas de la UNAM. Mi proyecto trata sobre el uso de RNA-Seq y Metabarcoding para el estudio de comunidades de hongos endófitos asociados a la filósfera de individuos de *Abies religiosa* en un bosque periférico de la CDMX. Anteriormente trabajé en un proyecto de producción de inóculo miceliar del hongo ectomicorrízico *Laccaria tricchodermophora*. Estoy muy interesada en el estudio de las interacciones Planta-Hongo mediante diferentes aproximaciones como el cultivo, la bioinformática y la estadística.
+</p>
+
+
+[<img src="./img/github.png" width="20px"/>](https://github.com/valeriafloral)[<img src="./img/rg.png" width="20px" />](https://www.researchgate.net/profile/Valeria-Flores-Almaraz)
+
+<br>
+
+# Estudiantes de licenciatura
+
+<br> <b>
+
+<h3>
+
+Norman Hernández
+
+</h3>
+
+</b>
+
+<img src="./img/Norman.jpeg" alt="JuveYell" width="300px"/><br>
+
+<p class="text-justify">
+Dentro del laboratorio estaré trabajando en un proyecto acerca de la determinación de los interactuantes en el parasitismo de *Septobasidium* y cóccidos sobre frenos. Me interesa mucho la divulgación científica, actualmente formó parte de un proyecto sobre divulgación. También me gustan demasiado los hongos y la antropología, especialmente la etnomicología. 
+</p>
+<br>
+
+# Servicio Social

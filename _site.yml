@@ -7,5 +7,6 @@ output:
     highlight: zenburn
     css:
     - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+    - ./doc.css
     includes:
       after_body: ./after.Rhtml
