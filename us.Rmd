@@ -1,5 +1,5 @@
 ---
-title: "Miembros del Lab"
+title: "Miembros del Laboratorio"
 output: html_document
 ---
 
@@ -57,6 +57,24 @@ Norman Hernández
 
 <p class="text-justify">
 Dentro del laboratorio estaré trabajando en un proyecto acerca de la determinación de los interactuantes en el parasitismo de *Septobasidium* y cóccidos sobre frenos. Me interesa mucho la divulgación científica, actualmente formó parte de un proyecto sobre divulgación. También me gustan demasiado los hongos y la antropología, especialmente la etnomicología. 
+</p>
+<br>
+
+<br> <b>
+
+<h3>
+
+Alejandro López
+
+</h3>
+
+</b>
+
+<img src="./img/Ale.jpg" alt="JuveYell" width="300px"/><br>
+
+<p class="text-justify">
+Actualmente trabajo en un proyecto acerca del género de hongos endófitos *Lophodermium*, y la evaluación de patrones de especificidad hacia hospederos del género
+de plantas *Pinus*. Me interesa mucho la investigación científica, al igual que la enseñanza.Me gustan mucho los hongos, plantas, insectos, pero me gusta aprender acerca de cualquier organismo 
 </p>
 <br>
 
