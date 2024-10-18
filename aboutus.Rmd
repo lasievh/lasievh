@@ -4,6 +4,7 @@ output: html_document
 ---
 <br>
 
+* Flores-Almaraz VS, Truong C, Hernández-Oaxaca D, Reyes-Galindo V, Mastretta-Yanes A, Jaramillo-Correa JP, **Salas-Lizana R.** 2024. Foliar mycobiome remains unaltered under urban air-pollution but differentially express stress-related genes. Microbial Ecology 87:72. [https://doi.org/10.1007/s00248-024-02387-y](https://doi.org/10.1007/s00248-024-02387-y)
 
 * **Salas-Lizana, R.**, Villegas Ríos, M., Alvarez-Manjarrez, J., Pérez-Pazos, E., Farid, A., Franck, A., Smith, M. E., & Garibay-Orijel, R. (2023). Neotropical *Clavulina*: Two new species from Mexico and a re-evaluation of *Clavulina floridana*. *Mycologia*, 115(1), 135–152. [https://doi.org/10.1080/00275514.2022.2148191](https://doi.org/10.1080/00275514.2022.2148191).
 

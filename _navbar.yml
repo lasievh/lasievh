@@ -1,16 +1,12 @@
-name: "LASIEH"
-title: "LASIEH"
+name: "LASIEVH"
+title: "LASIEVH"
 type: inverse
 left:
   - text: "Publicaciones"
     href: aboutus.html
   - text: "Proyectos"
-    menu:
-       - text: "Proyectos activos"
-         href: project1.html
-       - text: "Proyectos pasados"
-         href: project2.html
-  - text: "Gente"
+    href: project1.html
+  - text: "Integrantes"
     href: us.html
 right:
   - icon: fab fa-researchgate

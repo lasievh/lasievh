@@ -1,3 +1,12 @@
+/* Establecer un ancho mayor para el contenedor principal */
 div.main-container {
-  max-width: 1150px !important;
+  max-width: 95%; /* Puedes ajustar el porcentaje al que prefieras */
+  width: 1200px;  /* También puedes fijar un ancho específico en píxeles si lo prefieres */
+  margin: 0 auto; /* Asegura que el contenedor esté centrado */
+  padding: 20px;  /* Añade un poco de espacio interno (padding) */
+}
+
+/* Centrar el título h1 */
+h1 {
+  text-align: center;
 }
