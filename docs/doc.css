@@ -10,3 +10,21 @@ div.main-container {
 h1 {
   text-align: center;
 }
+
+<style>
+  .news-item {
+    border: 1px solid #ccc; /* Borde alrededor de cada publicación */
+    border-radius: 5px;     /* Bordes redondeados */
+    padding: 15px;          /* Espaciado interno */
+    margin: 10px 0;        /* Espaciado entre publicaciones */
+    background-color: #f9f9f9; /* Color de fondo */
+  }
+  .news-title {
+    font-size: 1.5em;       /* Tamaño del título */
+    color: #2c3e50;         /* Color del texto */
+  }
+  .news-date {
+    font-size: 0.9em;       /* Tamaño de la fecha */
+    color: #7f8c8d;         /* Color del texto de la fecha */
+  }
+</style>

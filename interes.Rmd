@@ -1,0 +1,8 @@
+---
+title: "Links de interés"
+output: html_document
+---
+### Colaboraciones
+[Ryoko Oono](https://oono-lab.eemb.ucsb.edu/)
+
+[Atlas de la Biodiversidad del suelo](https://ciencia.unam.mx/leer/1479/atlas-de-la-biodiversidad-del-suelo-mexicano-una-tierra-viva-)

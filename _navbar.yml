@@ -8,6 +8,12 @@ left:
     href: project1.html
   - text: "Integrantes"
     href: us.html
+  - text: "Divulgación"
+    href: Divulgacion.html
+  - text: "Anuncios"
+    href: anuncios.html
+  - text: "Links de interés"
+    href: interes.html
 right:
   - icon: fab fa-researchgate
     href: https://www.researchgate.net/profile/Rodolfo-Salas-Lizana
@@ -15,6 +21,3 @@ right:
     href: https://twitter.com/rodo_slizana
   - icon: ai ai-orcid
     href: https://orcid.org/0000-0002-0761-2910
-
-    
-

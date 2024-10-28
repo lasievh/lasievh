@@ -1,0 +1,23 @@
+---
+title: "Anuncios"
+output:
+  html_document:
+    theme: bootstrap
+---
+
+<div style="text-align: center;">
+  [Conferencias 6° Coloquio de Biología de Hongos, Facultad de Ciencias UNAM](./coloquio2024.html)
+</div>
+<div style="text-align: center;">
+  <img src="img/conferencias6coloquio.jpg" width="200px">
+</div>
+
+<div style="text-align: center;">
+[Exposición Micología: pasión, ciencia y arte ](./expocoloquio.Rmd)  
+</div>
+<div style="text-align: center;">
+  <img src="img/Exposicion6coloquio.png" width="200px">
+</div>
+
+
+

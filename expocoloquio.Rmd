@@ -1,0 +1,10 @@
+---
+title: "Exposición Micología: pasión, ciencia y arte"
+output: 
+  html_document:
+  theme: bootstrap
+---
+![](img/Exposicion6coloquio.png)
+
+
+[Regresar a Anuncios](anuncios.html)

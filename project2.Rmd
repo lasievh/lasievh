@@ -1,6 +1,0 @@
----
-title: "project2"
-output: html_document
-date: "2023-03-31"
----
-En construcción

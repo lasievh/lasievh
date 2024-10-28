@@ -1,0 +1,10 @@
+---
+title: "Conferencias 6° Coloquio de Biología de Hongos"
+output: 
+  html_document:
+    theme: bootstrap
+---
+![](img/conferencias6coloquio.jpg)
+
+
+[Regresar a Anuncios](anuncios.html)
