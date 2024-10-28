@@ -1,6 +1,5 @@
 ---
 title: "Links de interés"
-output: html_document
 ---
 ### Colaboraciones
 [Ryoko Oono](https://oono-lab.eemb.ucsb.edu/)

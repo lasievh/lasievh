@@ -1,8 +1,5 @@
 ---
 title: "Integrantes del Laboratorio"
-output:
-  html_document:
-    css: doc.css
 ---
 <div style="text-align: center; max-width: 350px; margin: 0 auto;">
 
