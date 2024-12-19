@@ -1,50 +1,70 @@
 ---
 title: "Integrantes del Laboratorio"
 ---
-<div style="text-align: center; max-width: 350px; margin: 0 auto;">
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+  <h2>Responsable del laboratorio</h2>
+  <h3>Rodolfo Salas Lizana</h3>
+  <img src="./img/Rodo.jpeg" alt="Rodolfo Salas Lizana" style="height: 300px; width: auto; display: block; margin: 0 auto;"/> <!-- Cambia el ancho a 200px -->
+  <br>
 
-<h2>Jefe de laboratorio</h2>
+  <h2>Estudiantes de licenciatura</h2>
+  <table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
+    <tr>
+      <td style="width: 50%; padding: 10px; vertical-align: top; text-align: center;">
+        <h3>Norman Hernández</h3>
+        <img src="./img/Norman.jpeg" alt="Norman Hernández" style="height: 300px; width: auto; display: block; margin: 0 auto;"/>
+        <p style="text-align: justify;">
+          Dentro del laboratorio estaré trabajando en un proyecto acerca de la determinación de los interactuantes en el parasitismo de <i>Septobasidium</i> y cóccidos sobre frenos. Me interesa mucho la divulgación científica, actualmente formo parte de un proyecto sobre divulgación. También me gustan demasiado los hongos y la antropología, especialmente la etnomicología.
+        </p>
+      </td>
 
-<h3>Rodolfo Salas Lizana</h3>
+      <td style="width: 50%; padding: 10px; vertical-align: top; text-align: center;">
+        <h3>Alejandro López</h3>
+        <img src="./img/Ale.jpg" alt="Alejandro López" style="height: 300px; width: auto; display: block; margin: 0 auto;"/>
+        <p style="text-align: justify;">
+          Actualmente trabajo en un proyecto acerca del género de hongos endófitos <i>Lophodermium</i>, y la evaluación de patrones de especificidad hacia hospederos del género de plantas <i>Pinus</i>. Me interesa mucho la investigación científica, al igual que la enseñanza. Me gustan mucho los hongos, plantas, insectos, pero me gusta aprender acerca de cualquier organismo.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; vertical-align: top; text-align: center;">
+        <h3>Sandra Hernández</h3>
+        <img src="./img/Sandra.jpg" alt="Sandra Hernández" width="100%" style="display: block; margin: 0 auto;"/>
+        <p style="text-align: justify;">
+          Para mi proyecto de licenciatura estoy trabajando con datos genéticos de <i>Lophodermium nitens</i>, para encontrar huellas de selección natural en los mismos. Me interesa el campo de la bioinformática en general así como el análisis de datos y la representación de éstos de manera gráfica.
+        </p>
+      </td>
+      <td style="padding: 10px; vertical-align: top;">
+        <!-- Aquí podrías incluir otro estudiante si lo deseas -->
+      </td>
+    </tr>
+  </table>
 
-<img src="./img/Rodo.jpeg" alt="Rodolfo Salas Lizana" width="300px"/>
-<br>
+  <h2>Estudiantes de maestría</h2>
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="width: 50%; padding: 10px; vertical-align: top; text-align: center;">
+        <h3>Valeria Flores Almaraz</h3>
+        <img src="./img/Valeria.jpg" alt="Valeria Flores Almaraz" width="200px" style="display: block; margin: 0 auto;"/> <!-- Cambia el ancho a 200px -->
+        <p style="text-align: justify;">
+          Estudiante del Posgrado en Ciencias Biológicas de la UNAM. Mi proyecto trata sobre el uso de RNA-Seq y Metabarcoding para el estudio de comunidades de hongos endófitos asociados a la filósfera de individuos de <i>Abies religiosa</i> en un bosque periférico de la CDMX. Anteriormente trabajé en un proyecto de producción de inóculo miceliar del hongo ectomicorrízico <i>Laccaria trichodermophora</i>. Estoy muy interesada en el estudio de las interacciones Planta-Hongo mediante diferentes aproximaciones como el cultivo, la bioinformática y la estadística.
+        </p>
+<li style="display: inline; margin-right: 10px;">
+            <a href="https://github.com/valeriafloral">
+              <img src="./img/github.png" alt="GitHub" width="20px"/>
+            </a>
+          </li>
+          <li style="display: inline;">
+            <a href="https://www.researchgate.net/profile/Valeria-Flores-Almaraz">
+              <img src="./img/rg.png" alt="ResearchGate" width="20px"/>
+            </a>
+          </li>
+      </td>
+      <td style="width: 50%; padding: 10px; vertical-align: top;">
+        <!-- Espacio para otro estudiante -->
+      </td>
+    </tr>
+  </table>
 
-<h2>Estudiantes de licenciatura</h2>
-
-<h3>Norman Hernández</h3>
-
-<img src="./img/Norman.jpeg" alt="Norman Hernández" width="300px"/>
-<p style="text-align: justify;">
-Dentro del laboratorio estaré trabajando en un proyecto acerca de la determinación de los interactuantes en el parasitismo de <i>Septobasidium</i> y cóccidos sobre frenos. Me interesa mucho la divulgación científica, actualmente formo parte de un proyecto sobre divulgación. También me gustan demasiado los hongos y la antropología, especialmente la etnomicología.
-</p>
-
-<h3>Alejandro López</h3>
-
-<img src="./img/Ale.jpg" alt="Alejandro López" width="300px"/>
-<p style="text-align: justify;">
-Actualmente trabajo en un proyecto acerca del género de hongos endófitos <i>Lophodermium</i>, y la evaluación de patrones de especificidad hacia hospederos del género de plantas <i>Pinus</i>. Me interesa mucho la investigación científica, al igual que la enseñanza. Me gustan mucho los hongos, plantas, insectos, pero me gusta aprender acerca de cualquier organismo.
-</p>
-
-<h3>Sandra Hernández</h3>
-<img src="./img/Sandra.jpg" alt="Sandra Hernández" width="300px"/>
-
-<h2>Estudiantes de maestría</h2>
-
-<h3>Valeria Flores Almaraz</h3>
-
-<img src="./img/Valeria.jpg" alt="Valeria Flores Almaraz" width="300px"/>
-<p style="text-align: justify;">
-Estudiante del Posgrado en Ciencias Biológicas de la UNAM. Mi proyecto trata sobre el uso de RNA-Seq y Metabarcoding para el estudio de comunidades de hongos endófitos asociados a la filósfera de individuos de <i>Abies religiosa</i> en un bosque periférico de la CDMX. Anteriormente trabajé en un proyecto de producción de inóculo miceliar del hongo ectomicorrízico <i>Laccaria trichodermophora</i>. Estoy muy interesada en el estudio de las interacciones Planta-Hongo mediante diferentes aproximaciones como el cultivo, la bioinformática y la estadística.
-</p>
-
-<a href="https://github.com/valeriafloral">
-  <img src="./img/github.png" alt="GitHub" width="20px"/>
-</a>
-<a href="https://www.researchgate.net/profile/Valeria-Flores-Almaraz">
-  <img src="./img/rg.png" alt="ResearchGate" width="20px"/>
-</a>
-
-<h2>Servicio Social</h2>
-
+  <h2>Servicio Social</h2>
 </div>

@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
-<div style="text-align: center;">
-  <img src="img/header.jpg">
+<div style="text-align: center; margin: 0; padding: 0;">
+  <img src="img/header.JPG" style="display: block; margin: 0 auto;">
 </div>
 
 <style type="text/css">
@@ -234,7 +234,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">LASIEVH</a>
+      <a class="navbar-brand" href="index.html">LASyEH</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -290,22 +290,25 @@ $(document).ready(function () {
 </div>
 
 
-<div style="text-align: center; max-width: 350px; margin: 0 auto;">
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
 <h2>
-Jefe de laboratorio
+Responsable del laboratorio
 </h2>
 <h3>
 Rodolfo Salas Lizana
 </h3>
-<p><img src="img/Rodo.jpeg" alt="Rodolfo Salas Lizana" width="300px"/>
-<br></p>
+<p><img src="img/Rodo.jpeg" alt="Rodolfo Salas Lizana" style="height: 300px; width: auto; display: block; margin: 0 auto;"/>
+<!-- Cambia el ancho a 200px --> <br></p>
 <h2>
 Estudiantes de licenciatura
 </h2>
+<table style="width: 100%; border-collapse: separate; border-spacing: 20px;">
+<tr>
+<td style="width: 50%; padding: 10px; vertical-align: top; text-align: center;">
 <h3>
 Norman Hernández
 </h3>
-<img src="img/Norman.jpeg" alt="Norman Hernández" width="300px"/>
+<img src="img/Norman.jpeg" alt="Norman Hernández" style="height: 300px; width: auto; display: block; margin: 0 auto;"/>
 <p style="text-align: justify;">
 Dentro del laboratorio estaré trabajando en un proyecto acerca de la
 determinación de los interactuantes en el parasitismo de
@@ -314,10 +317,12 @@ divulgación científica, actualmente formo parte de un proyecto sobre
 divulgación. También me gustan demasiado los hongos y la antropología,
 especialmente la etnomicología.
 </p>
+</td>
+<td style="width: 50%; padding: 10px; vertical-align: top; text-align: center;">
 <h3>
 Alejandro López
 </h3>
-<img src="img/Ale.jpg" alt="Alejandro López" width="300px"/>
+<img src="img/Ale.jpg" alt="Alejandro López" style="height: 300px; width: auto; display: block; margin: 0 auto;"/>
 <p style="text-align: justify;">
 Actualmente trabajo en un proyecto acerca del género de hongos endófitos
 <i>Lophodermium</i>, y la evaluación de patrones de especificidad hacia
@@ -326,17 +331,38 @@ investigación científica, al igual que la enseñanza. Me gustan mucho los
 hongos, plantas, insectos, pero me gusta aprender acerca de cualquier
 organismo.
 </p>
+</td>
+</tr>
+<tr>
+<td style="padding: 10px; vertical-align: top; text-align: center;">
 <h3>
 Sandra Hernández
 </h3>
-<p><img src="img/Sandra.jpg" alt="Sandra Hernández" width="300px"/></p>
+<img src="img/Sandra.jpg" alt="Sandra Hernández" width="100%" style="display: block; margin: 0 auto;"/>
+<p style="text-align: justify;">
+Para mi proyecto de licenciatura estoy trabajando con datos genéticos de
+<i>Lophodermium nitens</i>, para encontrar huellas de selección natural
+en los mismos. Me interesa el campo de la bioinformática en general así
+como el análisis de datos y la representación de éstos de manera
+gráfica.
+</p>
+</td>
+<td style="padding: 10px; vertical-align: top;">
+<!-- Aquí podrías incluir otro estudiante si lo deseas -->
+</td>
+</tr>
+</table>
 <h2>
 Estudiantes de maestría
 </h2>
+<table style="width: 100%; border-collapse: collapse;">
+<tr>
+<td style="width: 50%; padding: 10px; vertical-align: top; text-align: center;">
 <h3>
 Valeria Flores Almaraz
 </h3>
-<img src="img/Valeria.jpg" alt="Valeria Flores Almaraz" width="300px"/>
+<img src="img/Valeria.jpg" alt="Valeria Flores Almaraz" width="200px" style="display: block; margin: 0 auto;"/>
+<!-- Cambia el ancho a 200px -->
 <p style="text-align: justify;">
 Estudiante del Posgrado en Ciencias Biológicas de la UNAM. Mi proyecto
 trata sobre el uso de RNA-Seq y Metabarcoding para el estudio de
@@ -348,10 +374,20 @@ interesada en el estudio de las interacciones Planta-Hongo mediante
 diferentes aproximaciones como el cultivo, la bioinformática y la
 estadística.
 </p>
-<p><a href="https://github.com/valeriafloral">
+<li style="display: inline; margin-right: 10px;">
+<a href="https://github.com/valeriafloral">
 <img src="img/github.png" alt="GitHub" width="20px"/> </a>
+</li>
+<li style="display: inline;">
 <a href="https://www.researchgate.net/profile/Valeria-Flores-Almaraz">
-<img src="img/rg.png" alt="ResearchGate" width="20px"/> </a></p>
+<img src="img/rg.png" alt="ResearchGate" width="20px"/> </a>
+</li>
+</td>
+<td style="width: 50%; padding: 10px; vertical-align: top;">
+<!-- Espacio para otro estudiante -->
+</td>
+</tr>
+</table>
 <h2>
 Servicio Social
 </h2>
@@ -361,31 +397,27 @@ Servicio Social
 <footer class="bg-light text-center text-lg-start">
   <!-- Grid container -->
   <div class="container p-4">
-    <!--Grid row-->
+    <!--Grid column-->
     <div class="row">
-      <!--Grid column-->
-      <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-      <h4 class="text-uppercase">LASIEVH</h4>
-      <h6 class="mt-55 mt-2 text-muted bold-text">
-
-
-        <p>Laboratorio de Sistemática y Biología de Hongos</p>
-        <p>Deparatamento de Biología comparada</p>
-        <p>Laboratorios de Micología</p>
-        <p>Edificio A. Último Piso</p>
-        <p>Facultad de Ciencias, UNAM</p>
+      <div class="col-12 mb-4">
+        <h4 class="text-uppercase">LASyEH</h4>
+        <h6 class="mt-2 text-muted bold-text">
+          <p>Laboratorio de Sistemática y Evolución de Hongos</p>
+          <p>Departamento de Biología comparada</p>
+          <p>Laboratorios de Micología</p>
+          <p>Edificio A. Último Piso</p>
+          <p>Facultad de Ciencias, UNAM</p>
         </h6>
-      
-      
-      </div>
-      <!--Grid column-->
-
-      <!--Grid column-->
-      <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-      <h6 class="mt-55 mt-2 text-muted bold-text">
-      <b>Rodolfo Salas Lizana</b></h6>
-      <small> <span><i class="fa fa-envelope" aria-hidden="true"></i></span>salas@ciencias.unam.mx</small>
-      
+        <h6 class="mt-2 text-muted bold-text">
+          <b>Rodolfo Salas Lizana</b>
+        </h6>
+        <small>
+          <span>
+            <a href="mailto:rsalas@ciencias.unam.mx" style="text-decoration: none; color: inherit;">
+              <i class="fa fa-envelope" aria-hidden="true"></i>
+            </a>
+          </span>
+        </small>
       </div>
       <!--Grid column-->
     </div>

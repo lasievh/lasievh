@@ -27,3 +27,18 @@ h1 {
   font-size: 0.9em;       /* Tamaño de la fecha */
   color: #7f8c8d;         /* Color del texto de la fecha */
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block; /* Esto ayuda a eliminar el espaciado en línea */
+    margin-bottom: 0; /* Ajusta según sea necesario */
+}
+
+nav {
+    margin-top: 10px; /* Ajusta el espaciado del navbar */
+}
